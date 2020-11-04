@@ -1,1 +1,2 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Tree] 
+(http://wallur.com/wallpaper/31607)
