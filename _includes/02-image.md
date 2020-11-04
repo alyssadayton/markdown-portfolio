@@ -1,2 +1,1 @@
-![Image of Tree] 
-(http://wallur.com/wallpaper/31607)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
