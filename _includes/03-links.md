@@ -1,1 +1,1 @@
-[Github link] (https://github.com/alyssadayton)
+[Github link](https://github.com/alyssadayton)
